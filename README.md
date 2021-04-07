@@ -1,6 +1,5 @@
-### Hi there, I’m [BingoYB](https://bingoYB.github.io/) 👋
+## Hi there, I’m [BingoYB](https://bingoYB.github.io/) 👋
  
-Hi there, I’m BingoYB 👋
 
 <p align="center">
   <img src="https://github.com/JasonkayZK/jasonkayzk/blob/master/hello-world.gif" width="30%">
