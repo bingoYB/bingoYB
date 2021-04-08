@@ -37,3 +37,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bingoYB)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p align="center"> 
+  <br>
+  访问者数量<br><br>
+  <img src="https://counter-bingo.glitch.me/count.svg" />
+</p>
