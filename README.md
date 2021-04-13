@@ -2,7 +2,7 @@
  
 
 <p align="center">
-  <img src="https://github.com/JasonkayZK/jasonkayzk/blob/master/hello-world.gif" width="30%">
+  <img src="https://github.com/bingoYB/bingoYB/blob/main/hello-world.gif" width="30%">
 </p>
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
