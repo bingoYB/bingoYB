@@ -1,9 +1,14 @@
 ## Hi there, I’m [BingoYB](https://bingoYB.github.io/) 👋
- 
+
+<p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Bingo.readme">
+</p>
 
 <p align="center">
   <img src="https://github.com/bingoYB/bingoYB/blob/main/hello-world.gif" width="30%">
 </p>
+
+我的博客 [BLOG](https://github.com/bingoYB/learn-blog)
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -31,7 +36,7 @@
 - 🤔 I’m looking for help with TypeScript development.
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: binhdu@foxmail.com
-- 😄 Pronouns: Bingo
+- 😄 Pronouns: Bingo 
 - ⚡ Fun fact: Music, Movie.
 
 
@@ -41,5 +46,5 @@
 <p align="center"> 
   <br>
   访问者数量<br><br>
-  <img src="https://counter-bingo.glitch.me/count.svg" onerror="javascript:event.target.src='https://counter-bingo.glitch.me/count.svg';event.target.onerror=null"/>
+  <img src="https://counter-bingo.glitch.me/count.svg" />
 </p>
