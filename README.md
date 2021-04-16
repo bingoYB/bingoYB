@@ -1,7 +1,7 @@
 ## Hi there, I’m [BingoYB](https://bingoYB.github.io/) 👋
 
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Bingo.readme">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bingo.readme">
 </p>
 
 <p align="center">
@@ -47,4 +47,8 @@
   <br>
   访问者数量<br><br>
   <img src="https://counter-bingo.glitch.me/count.svg" />
+</p>
+
+<p>
+  <img src="https://github.com/bingoYB/bingoYB/blob/main/lurking-cat.gif">
 </p>
