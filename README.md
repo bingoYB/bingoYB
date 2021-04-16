@@ -49,6 +49,6 @@
   <img src="https://counter-bingo.glitch.me/count.svg" />
 </p>
 
-<p>
+<!-- <p>
   <img src="https://github.com/bingoYB/bingoYB/blob/main/lurking-cat.gif">
-</p>
+</p> -->
