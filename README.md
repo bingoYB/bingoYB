@@ -39,7 +39,7 @@
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: binhdu@foxmail.com
 - 😄 Pronouns: Bingo 
-- ⚡ Fun fact: Music, Movie.
+- ⚡ Fun fact: Music, Movie, Game, Coding.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bingoYB)](https://github.com/anuraghazra/github-readme-stats)
