@@ -35,11 +35,11 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 
-- 🤔 I’m looking for help with TypeScript development.
+- 🤔 I’m looking for help with Web3.
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: binhdu@foxmail.com
 - 😄 Pronouns: Bingo 
-- ⚡ Fun fact: Music, Movie, Game, Coding.
+- ⚡ Fun fact: Game, Coding.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bingoYB)](https://github.com/anuraghazra/github-readme-stats)
