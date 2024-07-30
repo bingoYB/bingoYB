@@ -50,6 +50,6 @@
   <img src="https://counter-bingo.glitch.me/count.svg" />
 </p>  -->
 
-<p align="center">
+<p>
   <img width="320" src="https://github.com/bingoYB/bingoYB/blob/main/lurking-cat.gif">
 </p>
