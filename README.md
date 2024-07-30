@@ -42,6 +42,7 @@
 - ⚡ Fun fact: Game, Coding.
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bingoYB)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="center"> 
   <br>
@@ -49,8 +50,6 @@
   <img src="https://counter-bingo.glitch.me/count.svg" />
 </p>  -->
 
-<p>
-  <img src="https://github.com/bingoYB/bingoYB/blob/main/lurking-cat.gif">
+<p align="center">
+  <img width="320" src="https://github.com/bingoYB/bingoYB/blob/main/lurking-cat.gif">
 </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bingoYB)](https://github.com/anuraghazra/github-readme-stats)
